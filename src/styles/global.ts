@@ -107,6 +107,10 @@ export const GlobalStyle = createGlobalStyle`
     cursor: not-allowed;
   }
 
+  .profile{
+    border-radius : 20px;
+  }
+
 
   .logo{
     font-size: 3rem;

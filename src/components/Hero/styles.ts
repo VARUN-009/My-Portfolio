@@ -51,6 +51,10 @@ export const Container = styled.section`
     }
   }
 
+  .resume {
+    padding : 2rem;
+  }
+
 
   @media(max-width: 960px){
     display: block;
