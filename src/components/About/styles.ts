@@ -92,6 +92,11 @@ export const Container = styled.section`
           filter: grayscale(0);
         }
     }
+
+    #about {
+    display : flex;
+    flex-direction : column;
+    }
     
     
   }
