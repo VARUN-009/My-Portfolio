@@ -45,7 +45,7 @@ export function Project() {
               <div className="project-links">
                 <a href="hhttps://github.com/harshul-2002/Simpli-Law" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://simpli-law.onrender.com/" target="_blank" rel="noreferrer">
+                <a href="https://minor-pujc.onrender.com/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
